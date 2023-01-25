@@ -1,0 +1,12 @@
+D:\Programming\Zionet\C#\Tasks-MultiThreading\Tasks-MultiThreading\bin\Debug\Tasks-MultiThreading.exe.config
+D:\Programming\Zionet\C#\Tasks-MultiThreading\Tasks-MultiThreading\bin\Debug\Tasks-MultiThreading.exe
+D:\Programming\Zionet\C#\Tasks-MultiThreading\Tasks-MultiThreading\bin\Debug\Tasks-MultiThreading.pdb
+D:\Programming\Zionet\C#\Tasks-MultiThreading\Tasks-MultiThreading\obj\Debug\Tasks-MultiThreading.csproj.AssemblyReference.cache
+D:\Programming\Zionet\C#\Tasks-MultiThreading\Tasks-MultiThreading\obj\Debug\Tasks-MultiThreading.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Zionet\C#\Tasks-MultiThreading\Tasks-MultiThreading\obj\Debug\Tasks_MultiThreading.Form1.resources
+D:\Programming\Zionet\C#\Tasks-MultiThreading\Tasks-MultiThreading\obj\Debug\Tasks_MultiThreading.Properties.Resources.resources
+D:\Programming\Zionet\C#\Tasks-MultiThreading\Tasks-MultiThreading\obj\Debug\Tasks-MultiThreading.csproj.GenerateResource.cache
+D:\Programming\Zionet\C#\Tasks-MultiThreading\Tasks-MultiThreading\obj\Debug\Tasks-MultiThreading.csproj.CoreCompileInputs.cache
+D:\Programming\Zionet\C#\Tasks-MultiThreading\Tasks-MultiThreading\obj\Debug\Tasks-MultiThreading.exe
+D:\Programming\Zionet\C#\Tasks-MultiThreading\Tasks-MultiThreading\obj\Debug\Tasks-MultiThreading.pdb
+D:\Programming\Zionet\C#\Tasks-MultiThreading\Tasks-MultiThreading\obj\Debug\Tasks_MultiThreading.Form2.resources
